@@ -175,7 +175,7 @@
   ],
   "Categories": [
     {
-      "Id": "618da7fa-0ed2-4653-9dfd-271c3bbe3a44",
+      "Id": "ff37c08a-dd12-4d3e-99c1-868fb6019865",
       "Name": "Microsoft Apps",
       "Image": "",
       "TechnologyId": "",
@@ -356,7 +356,7 @@
       ]
     },
     {
-      "Id": "ff37c08a-dd12-4d3e-99c1-868fb6019865",
+      "Id": "545db2cb-2fc8-4872-a650-3f8522051ade",
       "Name": "DGC Apps",
       "Image": "",
       "TechnologyId": "",
@@ -365,7 +365,7 @@
       "SubCategories": []
     },
     {
-      "Id": "545db2cb-2fc8-4872-a650-3f8522051ade",
+      "Id": "18766b2a-94df-4c51-a5c8-4136557911bc",
       "Name": "Keeping IT Secure",
       "Image": "",
       "TechnologyId": "",
